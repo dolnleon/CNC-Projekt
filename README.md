@@ -1,8 +1,15 @@
 # CNC-Projekt
+
 Izdelujem tri osni CNC rezkar
 
 
-| Column 1 | Column 2 | Column 3 |
-|----------|----------|----------|
-| Data 1   | Data 2   | Data 3   |
-| Data 4   | Data 5   | Data 6   |
+| CNC-načrt dela      | Naloge                            | Podnaloge                         |
+|---------------------|-----------------------------------|-----------------------------------|
+| Priprava            | -nakup rabljene potopne erozije   | -čiščenje, in pregled stroja      |
+|                     |                                   | -pregčed stroja                   |
+|                     |                                   | -odvoz odpadnih delov na odpad    |
+|                     | -Načrt dela                       | -najprej se lotim x in y osi      |
+|                     |                                   | -nato z osi                       |
+|                     | -Nakup delov                      | -Kar se da kupim rabljeno na Bolhi|
+
+
