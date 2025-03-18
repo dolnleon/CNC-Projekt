@@ -5,7 +5,7 @@ Izdelujem tri osni CNC rezkar
 
 | CNC-načrt dela      | Naloge                                                                 | Podnaloge                                                               |status                                   |
 |---------------------|------------------------------------------------------------------------|-------------------------------------------------------------------------|-----------------------------------------|
-| Seznam delov LINK   |                                                                        |                                                                        |                                         |
+| Seznam delov        | [Seznam](https://github.com/dolnleon/CNC-Projekt/blob/main/Seznam%20delov) |                                                                     |                                         |
 |                     |                                                                        |                                                                         |                                         |
 | Priprava            | nakup rabljene potopne erozije                                         | čiščenje, in pregled stroja                                             | narejeno - kupil za 200EUR              |
 |                     |                                                                        | pregled stroja                                                          | narejeno                                |
