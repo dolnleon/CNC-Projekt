@@ -21,7 +21,7 @@ Izdelujem tri osni CNC rezkar
 |                     |                                                                        | Kr.matico x-osi pobrusim, Kr.matico y.osi pustim pri miru               | narejeno                                |
 |                     |                                                                        | krajšanje krogljičnih vreten                                            |                                         |
 |                     |                                                                        |                                                                         |                                         |
-|                     | [nosilci koračnih motorjev](https://github.com/dolnleon/CNC-Projekt/tree/main/X%2C%20Y-os) | Izrez Flančnih                                     |                                         |
+|                     | [nosilci koračnih motorjev](https://github.com/dolnleon/CNC-Projekt/tree/main/X%2C%20Y-os/NosilciKoracnihMotorjev) | Izrez Flančnih              |                                         |
 |                     |                                                                        | struženje povezovalnih valčkov                                          |                                         |
 |                     |                                                                        |                                                                         |                                         |
 |                     | zaključek                                                              | sestava                                                                 |                                         |
