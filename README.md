@@ -16,7 +16,7 @@ Izdelujem tri osni CNC rezkar
 |                     |                                                                        |                                                                         |                                         |
 |                     | Nakup delov LINK                                                       | kar se da kupim rabljeno Na bolhi                                       | narejeno(dolžen ti je še nekaj delov)   |
 |                     |                                                                        |                                                                         |                                         |
-| x in y os           | trapezna vretena se zamenja z krogljičnimi                             | med vodili(lastovičji rep) z rezkanjem naredim prostor za kr. matice    | narejeno                                |
+| [x in y os](https://github.com/dolnleon/CNC-Projekt/tree/main/X%2C%20Y-os) | trapezna vretena se zamenja z krogljičnimi | med vodili(lastovičji rep) z rezkanjem naredim prostor za kr. matice | narejeno        |
 |                     |                                                                        | naredim nosilce za kr.matice                                            |                                         |
 |                     |                                                                        | Kr.matico x-osi pobrusim, Kr.matico y.osi pustim pri miru               | narejeno                                |
 |                     |                                                                        | krajšanje krogljičnih vreten                                            |                                         |
