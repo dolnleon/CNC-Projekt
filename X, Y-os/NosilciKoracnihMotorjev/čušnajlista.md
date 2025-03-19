@@ -11,3 +11,10 @@
 | NEMA24            | 2x        | 
 | BK12              | 2x        |
 | spona 10mmx8mm    | 2x        |  
+
+| orodje               |
+|----------------------|
+| set imbusov-metrični |
+| set imbusov-colski   |
+| vrezni sveder M5     |
+| vrezni sveder M6     |
