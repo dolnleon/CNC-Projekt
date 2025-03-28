@@ -12,4 +12,5 @@ Izbral sem NSK vodila široka 25 milimetrov, dolga 800 milimetrov z širokimi vo
 | 2 | z vijaki ploščo postavim pravokotno navpično na vodila x in y osi               |
 | 3 | med ploščo in stolp zalijem epoksi                                              |
 | 4 | ko se epoksi strdi zategnem vijake                                              |
-| 5 | stestiram gibanje osi.                                                          |
+| 5 | porežem flančno na matici krogljičnega vretena                                  |
+| 6 | stestiram gibanje osi.                                                          |
