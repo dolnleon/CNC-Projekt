@@ -4,7 +4,7 @@ X in y os oziroma koordinatna miza CNC-stroja bo izhajala iz že obstoječih vod
 
 Uporabil bom dve vreteni premera 16 milimetrov in z korakom 5 milimetrov. Vretena sama so sicer ožja od originalnih trapeznih, a so matice večjem zanjih zato ni dovolj prostora. Da bom vretena lahko vstavil med vodila, moram za njih narediti prostor z rezkanjem vodil, ali pa porezati flančne krogljičnih matic. Pri Y-osi bom porezkal spodnje vodilo, os tako spustil za 10 milimetrov in se tako izognil rezanju flančne. Pri X-osi pa vodil nemorem kaj dosti porezati saj je vmesno vodilo, na katerega je pritrjena matica kar ozko, dodatno rezkanje bi lahko oslabilo togost stroja, zato bom obrezal flančno krogljične matice. Prav tako bom moral porezati začetni del vodil, da jih bom lahko sestavil.
 
-Z dovolj prostora za krogljična vretena in matice, se lahko lotim nosilcev koračnih motorjev. Posamezen Nosilec je izdelan dveh 10 milimetrskih železnih plošč, eno pritrjeno na vodilo, eno na koračnih motor, in štirih postruženih aluminijastih valčkov, ki plošče povezujejo. Na ploščo ob vodilih je pritrjen še BK12, vmes pa motor in vreteno povezuje spona.
+Z dovolj prostora za krogljična vretena in matice, se lahko lotim nosilcev [koračnih motorjev]() in [nosilcev krogljičnih vreten](). Posamezen Nosilec je izdelan dveh 10 milimetrskih železnih plošč, eno pritrjeno na vodilo, eno na koračnih motor, in štirih postruženih aluminijastih valčkov, ki plošče povezujejo. Na ploščo ob vodilih je pritrjen še BK12, vmes pa motor in vreteno povezuje spona.
 
 
 | naloga                       |          |
