@@ -4,13 +4,14 @@ X in y os oziroma koordinatna miza CNC-stroja bo izhajala iz že obstoječih vod
 
 Uporabil bom dve vreteni premera 16 milimetrov in z korakom 5 milimetrov. Vretena sama so sicer ožja od originalnih trapeznih, a so matice večjem zanjih zato ni dovolj prostora. Da bom vretena lahko vstavil med vodila, moram za njih narediti prostor z rezkanjem vodil, ali pa porezati flančne krogljičnih matic. Pri Y-osi bom porezkal spodnje vodilo, os tako spustil za 10 milimetrov in se tako izognil rezanju flančne. Pri X-osi pa vodil nemorem kaj dosti porezati saj je vmesno vodilo, na katerega je pritrjena matica kar ozko, dodatno rezkanje bi lahko oslabilo togost stroja, zato bom obrezal flančno krogljične matice. Prav tako bom moral porezati začetni del vodil, da jih bom lahko sestavil.
 
-Z dovolj prostora za krogljična vretena in matice, se lahko lotim nosilcev [koračnih motorjev](https://github.com/dolnleon/CNC-Projekt/blob/main/X%2C%20Y-os/NosilciKoracniMotorjev.pdf) in [nosilcev krogljičnih vreten](). Posamezen Nosilec je izdelan dveh 10 milimetrskih železnih plošč, eno pritrjeno na vodilo, eno na koračnih motor, in štirih postruženih aluminijastih valčkov, ki plošče povezujejo. Na ploščo ob vodilih je pritrjen še BK12, vmes pa motor in vreteno povezuje spona.
+Z dovolj prostora za krogljična vretena in matice, se lahko lotim nosilcev [koračnih motorjev](https://github.com/dolnleon/CNC-Projekt/blob/main/X%2C%20Y-os/NosilciKoracniMotorjev.pdf) in [nosilcev krogljičnih vreten](https://github.com/dolnleon/CNC-Projekt/blob/main/X%2C%20Y-os/NosilciKrogljicnihVreten.pdf). Posamezen Nosilec je izdelan dveh 10 milimetrskih železnih plošč, eno pritrjeno na vodilo, eno na koračnih motor, in štirih postruženih aluminijastih valčkov, ki plošče povezujejo. Na ploščo ob vodilih je pritrjen še BK12, vmes pa motor in vreteno povezuje spona. Nosilce krogljičnih vreten, bom natisnil z 3d printerjem. Da bodo bolj močni so naprintani z 90 odstotnim polnilom. Polnilo ne sme biti 100 odstotno, saj bi tako lahko pokalo kot steklo, deli zraka v delu to preprečijo.
 
 
 | naloga                       |          |
 |------------------------------|----------|          
 | porezkaj vodila spredaj      | narejeno |        
-| porezkaj spodnje vodilo      | narejeno |         
+| porezkaj spodnje vodilo      | narejeno |     
+| natisni nosilce kr. matic    | narejeno |
 | porezkaj flančno X-os matice | narejeno | 
 | postruži povezovalne valčke  | narejeno | 
 | daj rezat flančne nosilcev   | narejeno |       
