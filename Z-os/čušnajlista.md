@@ -1,10 +1,10 @@
-| del                            |
-|--------------------------------|
-| ravna plosca                   |
-| NSK linearna vodila            |
-| rexroth krogljicno vreteno 2020|
-| BK12 vpetje                    |
-| NEMA34 koračni motor           |
+| del                        | lastnosti                           |
+|----------------------------|-------------------------------------|
+| ravna plosca               | aluminij v: 902.2, š: 275, d:25     |
+| NSK linearna vodila        | š: 25, d: 800, v 22, v.vozičkov: 36 |
+| rexroth krogljično vreteno | korak: 20, š: 20                    |
+| BK12 vpetje                |                                     |
+| NEMA34 koračni motor       | 12Nm                                |
 
 | vijaki  | količina | namen                                                        |
 |---------|----------|--------------------------------------------------------------|
