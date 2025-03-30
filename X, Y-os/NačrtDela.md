@@ -6,6 +6,7 @@ Uporabil bom dve vreteni premera 16 milimetrov in z korakom 5 milimetrov. Vreten
 
 Z dovolj prostora za krogljična vretena in matice se lahko lotim nosilcev koračnih motorjev. Posamezen Nosilec je izdelan dveh 10 milimetrskih železnih plošč, eno pritrjeno na vodilo, eno na koračnih motor, in štirih postruženih aluminijastih valčkov, ki plošče povezujejo. Na ploščo ob vodili je pritrjen še BK12, vmes pa motor in vreteno povezuje spona.
 
+
 | naloga                       |          |
 |------------------------------|----------|          
 | porezkaj vodila spredaj      | narejeno |        
