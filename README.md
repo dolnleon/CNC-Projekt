@@ -3,37 +3,24 @@
 Izdelujem tri osni CNC rezkar
 
 
-| CNC-načrt dela      | Naloge                                                                 | Podnaloge                                                               |status                                   |
-|---------------------|------------------------------------------------------------------------|-------------------------------------------------------------------------|-----------------------------------------|
-| Seznam delov        | [Seznam](https://github.com/dolnleon/CNC-Projekt/blob/main/SeznamDelov.md) |                                                                     |                                         |
-|                     |                                                                        |                                                                         |                                         |
-| Priprava            | nakup rabljene potopne erozije                                         | čiščenje, in pregled stroja                                             | narejeno - kupil za 200EUR              |
-|                     |                                                                        | pregled stroja                                                          | narejeno                                |
-|                     |                                                                        | odvoz odpadnih delov na odpad                                           | narejeno - dobil 60EUR za staro železo  |
-|                     |                                                                        |                                                                         |                                         |
-|                     | Načrt dela                                                             | najprej se lotim x in y osi                                             |                                         |
-|                     |                                                                        | nato z osi                                                              |                                         |
-|                     |                                                                        |                                                                         |                                         |
-|                     | Nakup delov LINK                                                       | kar se da kupim rabljeno Na bolhi                                       | narejeno(dolžen ti je še nekaj delov)   |
-|                     |                                                                        |                                                                         |                                         |
-| [x in y os](https://github.com/dolnleon/CNC-Projekt/tree/main/X%2C%20Y-os) | trapezna vretena se zamenja z krogljičnimi | med vodili(lastovičji rep) z rezkanjem naredim prostor za kr. matice | narejeno        |
-|                     |                                                                        | naredim nosilce za kr.matice                                            | narejeno                                |
-|                     |                                                                        | Kr.matico x-osi pobrusim, Kr.matico y.osi pustim pri miru               | narejeno                                |
-|                     |                                                                        | krajšanje krogljičnih vreten                                            | narejeno                                |
-|                     |                                                                        |                                                                         |                                         |
-|                     | [nosilci koračnih motorjev](https://github.com/dolnleon/CNC-Projekt/tree/main/X%2C%20Y-os/NosilciKoracnihMotorjev) | Izrez Flančnih              | narejeno                                |
-|                     |                                                                        | struženje povezovalnih valčkov                                          | narejeno                                |
-|                     |                                                                        |                                                                         |                                         |
-|                     | zaključek                                                              | sestava                                                                 | manjka še ena zatezna matica za vreteno |
-|                     |                                                                        | test premikanja                                                         | narejeno za eno os                      |
-|                     |                                                                        | namestitev na ohišje stroja                                             |                                         |
-|                     |                                                                        |                                                                         |                                         |
-| [Z-os](https://github.com/dolnleon/CNC-Projekt/tree/main/Z-os) | Na stolp se pričvrsti porezkana železna plošča | ploščo dimenzij 1000mmX270mmx20mm kupim pri oromet   | narejeno                                |
-|                     |                                                                        | v plošči se naredi luknje za pričvrstitev plošče na stolp               |                                         |
-|                     |                                                                        | v plošči se naredi luknje za pričvrstitev vodil, vretena in koračnega motorja| narejeno                           |
-|                     |                                                                        | ploščo z kombinacijo vijakov, ki jo pritiskajo k in od stolpa postavim v vinkl z x in y osjo |                    |
-|                     |                                                                        | kr. matico zožam na obeh straneh                                        | narejeno                                |
-|                     |                                                                        |                                                                         |                                         |
-|                     | [Glava Z osi z špindlom](https://github.com/dolnleon/CNC-Projekt/tree/main/Glava) |                                                              | glavo je treba še porezkat in zvrtat luknje za špindl |
-|                     |                                                                        |                                                                         |                                         |
-| Driverji            |                                                                        |                                                                         |                                         |
+| Priprava                        |                                                                             | 
+|---------------------------------|-----------------------------------------------------------------------------|
+| Seznam delov                    | [Seznam](https://github.com/dolnleon/CNC-Projekt/blob/main/SeznamDelov.md)  |                                                      
+|                                 |                                                                             |                                                             
+| nakup rabljene potopne erozije  | čiščenje, in pregled stroja                                                 | 
+|                                 | pregled stroja                                                              | 
+|                                 | odvoz odpadnih delov na odpad                                               | 
+|                                 |                                                                             |                                         
+| Načrt dela                      | najprej se lotim x in y osi                                                 |                                         
+|                                 | nato z osi in glave                                                         |                                                                  
+
+
+| delo                                                                               | status                                                                  | 
+|------------------------------------------------------------------------------------|-------------------------------------------------------------------------|
+| [x in y os](https://github.com/dolnleon/CNC-Projekt/tree/main/X%2C%20Y-os)         | narejeno vse, manjka ti še ena zatezna matica                           |     
+|                                                                                    |                                                                         |                             
+| [Z-os](https://github.com/dolnleon/CNC-Projekt/tree/main/Z-os)                     | plošča pripravljena na pritrditev                                       |                                               
+|                                                                                    |                                                                         |                                         
+| [Glava Z osi z špindlom](https://github.com/dolnleon/CNC-Projekt/tree/main/Glava)  | glavo je treba še porezkat in zvrtat luknje za špindl                   | 
+|                                                                                    |                                                                         |                                         
+| Driverji                                                                           |                                                                         |                                         
