@@ -1,7 +1,6 @@
-# CNC-Projekt
+# CNC
 
-Izdelujem tri osni CNC rezkar
-
+Kaj ti bo garaža brez CNC-ja!
 
 | Priprava                        |                                                                             | 
 |---------------------------------|-----------------------------------------------------------------------------|
