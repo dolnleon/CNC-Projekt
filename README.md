@@ -28,7 +28,7 @@ Izdelujem tri osni CNC rezkar
 |                     |                                                                        | test premikanja                                                         | narejeno za eno os                      |
 |                     |                                                                        | namestitev na ohišje stroja                                             |                                         |
 |                     |                                                                        |                                                                         |                                         |
-| [Z-os](https://github.com/dolnleon/CNC-Projekt/tree/main/Z-os) | Na stolp se pričvrsti porezkana železna plošča | ploščo dimenzij 1000mmX270mmx20mm kupim pri oromet | narejeno                             |
+| [Z-os](https://github.com/dolnleon/CNC-Projekt/tree/main/Z-os) | Na stolp se pričvrsti porezkana železna plošča | ploščo dimenzij 1000mmX270mmx20mm kupim pri oromet   | narejeno                                |
 |                     |                                                                        | v plošči se naredi luknje za pričvrstitev plošče na stolp               |                                         |
 |                     |                                                                        | v plošči se naredi luknje za pričvrstitev vodil, vretena in koračnega motorja| narejeno                           |
 |                     |                                                                        | ploščo z kombinacijo vijakov, ki jo pritiskajo k in od stolpa postavim v vinkl z x in y osjo |                    |
@@ -37,7 +37,10 @@ Izdelujem tri osni CNC rezkar
 |                     | [Glava Z osi z špindlom](https://github.com/dolnleon/CNC-Projekt/tree/main/Glava) | V manjšo porezkano ploščo zvrtam luknje in navoje za prčvrstitev na vozičkov, glave, in nosilca matice | narejeno |
 |                     |                                                                        | odfleksano glavo potopne erozije, razrežem in zvarim z podporno železno ploščo | narejeno                         |
 |                     |                                                                        | v podporno železno ploščo zvrtam pritrdilne luknje                      | narejeno                                |
-|                     |                                                                        | glavo spodaj in zgoraj porezkam                                         |                                         |
-| Driverji            |                                                                        | v glavi naredim luknje za špindl                                        |                                         |
+|                     |                                                                        | zvarim glavo na katerjo bo pritrjen špindl                              | narejeno                                |
+|                     |                                                                        | zvarjene predele segrejem z acitenskim gorilnikom                       | narejeno                                |
+|                     |                                                                        | naredim nosilec kr. matice                                              | narejeno                                |
 |                     |                                                                        |                                                                         |                                         |
+|                     |                                                                        | v glavi naredim luknje za špindl                                        | narejeno                                |
 |                     |                                                                        |                                                                         |                                         |
+| Driverji            |                                                                        |                                                                         |                                         |
